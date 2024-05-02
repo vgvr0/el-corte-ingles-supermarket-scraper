@@ -39,7 +39,7 @@ driver = Driver(
     do_not_track=True,
     undetectable=True
 )
-
+```
 Here’s what each option means:
 
 `browser="chrome"`: This indicates that you’re using Google Chrome as your browser.
