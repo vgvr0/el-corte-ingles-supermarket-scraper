@@ -17,7 +17,7 @@ This Python script performs web scraping on various product categories from an o
 
 ## Usage
 
-1. Ensure that all required Python libraries are installed. These include os, re, csv, time, random, sqlite3, datetime, BeautifulSoup, and SeleniumBase.
+1. Ensure that all required Python libraries are installed. These include `os`, `re`, `csv`, `time`, `random`, `sqlite3`, `datetime`, `BeautifulSoup`, and `SeleniumBase`.
 2. Run the script. It will start by initializing the SeleniumBase Driver and maximizing the window.
 3. The script will then start the scanning process, iterating over each category and each page within the category.
 4. For each ad found, it will extract the details and save them to a `CSV file`.
