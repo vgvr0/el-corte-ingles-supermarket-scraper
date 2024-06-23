@@ -2,6 +2,8 @@
 
 This Python script performs web scraping on various product categories from an online supermarket and saves the product details into a CSV file.
 
+![El Corte Inglés](ElCorteIngles.png)
+
 ## Features
 
 - Uses `SeleniumBase Driver` for web navigation and BeautifulSoup for parsing HTML.
